@@ -39,5 +39,5 @@ I am a Computer Science student and software developer specializing in backend e
 ---
 
 ## 📬 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Update this link!)*
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com) *(Update this link!)*
+* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/umarfarooq66/) *(Update this link!)*
+* 📧 **Email:** [your.email@example.com](xumarkhan66@gmail.com) *(Update this link!)*
