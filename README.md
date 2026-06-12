@@ -14,7 +14,7 @@ I am a Computer Science student and software developer specializing in backend e
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shapes.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -39,5 +39,5 @@ I am a Computer Science student and software developer specializing in backend e
 ---
 
 ## 📬 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/umarfarooq66/) *(Update this link!)*
-* 📧 **Email:** [your.email@example.com](xumarkhan66@gmail.com) *(Update this link!)*
+* 💼 **LinkedIn:** [linkedin.com/in/umarfarooq66](https://www.linkedin.com/in/umarfarooq66/)
+* 📧 **Email:** [xumarkhan66@gmail.com](mailto:xumarkhan66@gmail.com)
